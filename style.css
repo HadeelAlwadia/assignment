@@ -1,0 +1,12 @@
+h1{
+text-align: center;
+}
+.product-lists{
+    background-color: lightgray;
+    border: 1px solid none;
+}
+
+ul li{
+color: green;
+font-weight: bold;
+}
